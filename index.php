@@ -20,7 +20,6 @@
 	<link rel="icon" type="image/png" href="favicon.ico">
 </head>
 <body>
-<!-- Testing live push -->
 <!-- We can only see a short distance ahead, but we can see plenty there that needs to be done.
 		- Alan Turing' -->
 
